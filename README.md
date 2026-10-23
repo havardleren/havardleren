@@ -7,7 +7,7 @@ I'm a strategy/innovation/project-management-guy on a journey to learn about dev
 **[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5dc32744-7ec3-4bd8-a7ef-4c20419505ce.jpeg?v=1791979860)](https://www.boot.dev/certificates/5dc32744-7ec3-4bd8-a7ef-4c20419505ce)**
 **[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ef3ad50f-4a1f-4044-92d9-26575a82dccc.jpeg?v=1792076585)](https://www.boot.dev/certificates/ef3ad50f-4a1f-4044-92d9-26575a82dccc)**
 **[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/594096ff-b6c5-450a-9f35-5f6efedc59b1.jpeg?v=1792344252)](https://www.boot.dev/certificates/594096ff-b6c5-450a-9f35-5f6efedc59b1)**
-
+**[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/299a6f76-ffd1-4cd8-9c74-0cfaccb078c1.jpeg?v=1792751274)](https://www.boot.dev/certificates/299a6f76-ffd1-4cd8-9c74-0cfaccb078c1)**
 
 <!--
 **havardleren/havardleren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
